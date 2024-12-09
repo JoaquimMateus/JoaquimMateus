@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Atualmente no Terceiro Semestre de Ciência Computação<br>
+Estudante de Ciência da Computação (4º semestre) com forte interesse em desenvolvimento de software, automação de processos e Banco de Dados (PostgreeSQL/MySQL). Experiência em (PostgreeSQL/MySQL), automação com Python, básico de Java e C++, Pacote office completo com ênfase em Excel.
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/JoaquimMateus/) 
