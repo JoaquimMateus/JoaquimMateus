@@ -12,6 +12,6 @@ Estudante de Ciência da Computação (4º semestre) com forte interesse em dese
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimMateus&theme=outrun&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JoaquimMateus&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JoaquimMateus&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
