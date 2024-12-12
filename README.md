@@ -44,6 +44,8 @@ Versionamento Github – Dio
 📧 Email: mateusjoaquim10@gmail.com     
 Linkedin: https://www.linkedin.com/in/mateus-joaquim/
 
+<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="319" fill="#262626" stroke-opacity="1"/>
+
 
 
 
