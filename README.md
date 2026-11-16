@@ -1,57 +1,14 @@
-
 ## 🚀 Sobre mim
-Estudante de Ciência da Computação (4º semestre) com forte interesse em desenvolvimento de software, automação de processos e Banco de Dados (PostgreeSQL/MySQL). Experiência em (PostgreeSQL/MySQL), automação com Python, básico de Java e C++, Pacote office completo com ênfase em Excel.
+Estudante de Ciência da Computação (previsão de formatura em 07/2027) com sólida vivência em **Análise e Engenharia de Dados**, modelagem de bancos relacionais/dimensionais, processos de ETL/ELT e automação de processos. 
 
+Atualmente atuo como **Estagiário de TI na Dataprev**, onde sustento dashboards executivos no Power BI (via Microsoft Fabric) para diretorias e presidência, desenvolvo scripts em Python integrados a APIs corporativas (TOTVS CRM e ServiceNow) e administro ambientes Linux em nuvem. Certificado **Microsoft Azure Data Fundamentals (DP-900)**.
 
-## 🛠 Habilidades
-Java,
-Python,
-C++,
-PostgreeSQL,
-MySQL,
-Amazon (AWS),
-Sistemas Operacionais: Windows e Linux,
-Comunicação,
-Pensamento crítico,
-Flexibilidade e adaptação,
-Capacidade de resolução,
-Motivação e confiança: para alcançar um objetivo.
+## 🛠 Competências Técnicas (Stack)
+* **Dados, BI & Modelagem:** Microsoft Power BI, Microsoft Fabric, DAX, Excel Avançado, Análise Exploratória (EDA), Governança de Dados, Processos de ETL/ELT, Modelagem Dimensional (Star Schema), Data Warehouse & Lakehouse.
+* **Bancos de Dados:** PostgreSQL, MySQL, Supabase, Microsoft SQL Server, SQLite.
+* **Linguagens & Automação:** Python (Automação, Scripts, Integração de APIs), SQL, Java, Git/GitHub.
+* **Nuvem & Infraestrutura:** Microsoft Azure (DP-900), AWS Cloud Foundations, Linux (Debian, Ubuntu, ZorinOS), Redes (WireGuard VPN, SSH), VMware vCloud, Huawei Cloud (HCSO).
+* **Soft Skills:** Comunicação clara (tradução de temas técnicos para públicos não técnicos), pensamento crítico, resolução estruturada de problemas e trabalho em equipe.
 
-# Tecnologias:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-    
-## 💻 Certificações:
-Nuvem – AWS Academy Graduate – Academy Cloud Foundations |
-Computação em Nuvem – Talent X |
-SoftSkills – Talent X |
-Pacote Office – Udemy |
-Excel – Udemy |
-Bootcamp – Python AI Backend Developer – Dio |
-Versionamento Github – Dio 
-
-## Linguagens:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=JoaquimMateus&theme=default_repocard&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimMateus&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=JoaquimMateus&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## 📞 Contato: 
-
-📞 Telefone: 61984166815    
-📧 Email: mateusjoaquim10@gmail.com     
-Linkedin: https://www.linkedin.com/in/mateus-joaquim/
-
-<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="319" fill="#262626" stroke-opacity="1"/>
-
-
-
-
-
-
-
-
-
-
+## 💻 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](
